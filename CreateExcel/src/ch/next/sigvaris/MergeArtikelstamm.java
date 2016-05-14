@@ -8,7 +8,7 @@ import ch.next.sigvaris.model.Field;
 
 import com.smartxls.WorkBook;
 
-//Prototyp
+//Prototyp V1
 public class MergeArtikelstamm {	
 
 //	private final static String mode="Test";
